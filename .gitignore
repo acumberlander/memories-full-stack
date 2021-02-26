@@ -1,0 +1,12 @@
+# Node Modules
+/client/node_modules
+/server/node_modules
+/.pnp
+.pnp.js
+
+# Environment Variables
+/client/.env
+/server/.env
+
+# production
+/client/build
